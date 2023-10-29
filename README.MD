@@ -38,4 +38,14 @@ Our project uniquely blends the capabilities of **Flutter**, **LangChain**, **Ch
 
 ![RAG Image Placeholder](path_to_image_placeholder5.png)
 
+![WhatsApp Image 2023-10-29 at 07 58 26_3793c7e3](https://github.com/dedeepya-M/megathon-2023-submission-blitzkrieg/assets/83818024/bca35834-78fc-4cbe-832e-a15ac9f3447b)
 
+
+![WhatsApp Image 2023-10-29 at 08 06 14_b2d06668](https://github.com/dedeepya-M/megathon-2023-submission-blitzkrieg/assets/83818024/a3f86511-d7c1-4255-8f4f-a2544d77d9f9)
+
+![WhatsApp Image 2023-10-29 at 08 09 19_f4001361](https://github.com/dedeepya-M/megathon-2023-submission-blitzkrieg/assets/83818024/797162bc-de47-4438-9647-0c60d0fee7b7)
+
+![WhatsApp Image 
+![WhatsApp Image 2023-10-29 at 08 43 19_961a69fc](https://github.com/dedeepya-M/megathon-2023-submission-blitzkrieg/assets/83818024/458b99db-67b6-4012-96d4-f3be174dac56)
+
+2023-10-29 at 08 28 18_97c0f10d](https://github.com/dedeepya-M/megathon-2023-submission-blitzkrieg/assets/83818024/3be3eb30-4c59-41cc-9d99-9052bf65a390)
