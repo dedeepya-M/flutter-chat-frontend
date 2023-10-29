@@ -1,0 +1,8 @@
+- Used Zephyr 7B Model - Hugging Face - Llama 2.0 / Mistral 7B -Fine Tune
+- Injested Data into Vector DB FAISS and modelled a FLask APi + Flutter App
+- As well as a chainlit frontend for the purpose
+
+- BERT - MediBert LLM Training - and Instruction based tuning using given JSON - hyperparameter tuning
+
+- Built a RAG using llama.cpp and Chroma DB and quantization 4-bit
+
